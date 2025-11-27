@@ -6,7 +6,3 @@
 **My role:** Set up IDS, created detection rules, analyzed logs, wrote report.
 
 **Results:** Successfully detected simulated attacks; generated report with alert logs.
-
-ids-snort-portscan-detection/
-├── README.md
-├── docs/     
